@@ -2,7 +2,7 @@
 $basePath = dirname(__DIR__);
 $config = require __DIR__ . '/config.php';
 
-$data = json_decode(file_get_contents('https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0015-001?format=JSON&offset=24&Authorization=' . $config['Authorization']), true);
+$data = json_decode(file_get_contents('https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0015-001?format=JSON&Authorization=' . $config['Authorization']), true);
 
 foreach ($data['records']['Earthquake'] as $record) {
     $y = substr($record['EarthquakeNo'], 0, 3);
