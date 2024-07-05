@@ -1026,6 +1026,31 @@
                     {
                         "pga": {
                             "unit": "gal",
+                            "EWComponent": 1.53,
+                            "NSComponent": 1.37,
+                            "VComponent": 0.99,
+                            "IntScaleValue": 1.96
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.11,
+                            "NSComponent": 0.1,
+                            "VComponent": 0.06,
+                            "IntScaleValue": 0.15
+                        },
+                        "StationName": "三光",
+                        "StationID": "NSK",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 146.43,
+                        "EpicenterDistance": 68.75,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.674,
+                        "StationLongitude": 121.367,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2024\/2024422\/1-NSK.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
                             "EWComponent": 0.39,
                             "NSComponent": 0.9,
                             "VComponent": 0.3,
