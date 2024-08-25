@@ -2782,7 +2782,33 @@
                 "CountyName": "嘉義市",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.61,
+                            "NSComponent": 2.26,
+                            "VComponent": 0.75,
+                            "IntScaleValue": 2.61
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.24,
+                            "NSComponent": 0.2,
+                            "VComponent": 0.09,
+                            "IntScaleValue": 0.26
+                        },
+                        "StationName": "嘉義市",
+                        "StationID": "CHY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 55.52,
+                        "EpicenterDistance": 176.79,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 23.496,
+                        "StationLongitude": 120.433,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2024\/2024442\/2-CHY.gif"
+                    }
+                ]
             }
         ]
     }
