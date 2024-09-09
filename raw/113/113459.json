@@ -1503,6 +1503,31 @@
                     {
                         "pga": {
                             "unit": "gal",
+                            "EWComponent": 0.79,
+                            "NSComponent": 0.83,
+                            "VComponent": 0.46,
+                            "IntScaleValue": 1
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.05,
+                            "NSComponent": 0.06,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "大溪",
+                        "StationID": "B011",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 161.53,
+                        "EpicenterDistance": 124.13,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.884,
+                        "StationLongitude": 121.286,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2024\/2024459\/1-B011.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
                             "EWComponent": 0.8,
                             "NSComponent": 0.8,
                             "VComponent": 0.52,
