@@ -1,0 +1,115 @@
+{
+    "EarthquakeNo": 114027,
+    "ReportType": "地震報告",
+    "ReportColor": "綠色",
+    "ReportContent": "01\/22-16:11臺灣東南部海域發生規模4.7有感地震，最大震度臺東縣蘭嶼4級。",
+    "ReportImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/OLDEQ\/202501\/2025012216114247027_H.png",
+    "ReportRemark": "本報告係中央氣象署地震觀測網即時地震資料地震速報之結果。",
+    "Web": "https:\/\/scweb.cwa.gov.tw\/zh-tw\/earthquake\/details\/2025012216114247027",
+    "ShakemapImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/plotContour\/2025\/2025027i.png",
+    "EarthquakeInfo": {
+        "OriginTime": "2025-01-22 16:11:42",
+        "Source": "中央氣象署",
+        "FocalDepth": 18.1,
+        "Epicenter": {
+            "Location": "臺東縣政府南南東方  101.2  公里 (位於臺灣東南部海域)",
+            "EpicenterLatitude": 21.91,
+            "EpicenterLongitude": 121.52
+        },
+        "EarthquakeMagnitude": {
+            "MagnitudeType": "芮氏規模",
+            "MagnitudeValue": 4.7
+        }
+    },
+    "Intensity": {
+        "ShakingArea": [
+            {
+                "AreaDesc": "最大震度4級地區",
+                "CountyName": "臺東縣",
+                "AreaIntensity": "4級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度2級地區",
+                "CountyName": "屏東縣",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "屏東縣地區",
+                "CountyName": "屏東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": [
+                    {
+                        "StationName": "南灣",
+                        "StationID": "SNW",
+                        "BackAzimuth": 94.13,
+                        "EpicenterDistance": 79.71,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 21.96,
+                        "StationLongitude": 120.75
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.85,
+                            "NSComponent": 0.95,
+                            "VComponent": 0.43,
+                            "IntScaleValue": 0.97
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "滿州",
+                        "StationID": "SMS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 100.04,
+                        "EpicenterDistance": 71.54,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.021,
+                        "StationLongitude": 120.837,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025027\/1-SMS.gif"
+                    }
+                ]
+            },
+            {
+                "AreaDesc": "臺東縣地區",
+                "CountyName": "臺東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "4級",
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 37.04,
+                            "NSComponent": 41.5,
+                            "VComponent": 13.82,
+                            "IntScaleValue": 44.78
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 1.21,
+                            "NSComponent": 1.41,
+                            "VComponent": 0.48,
+                            "IntScaleValue": 1.58
+                        },
+                        "StationName": "蘭嶼",
+                        "StationID": "LAY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 195.6,
+                        "EpicenterDistance": 14.89,
+                        "SeismicIntensity": "4級",
+                        "StationLatitude": 22.037,
+                        "StationLongitude": 121.558,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025027\/4-LAY.gif"
+                    }
+                ]
+            }
+        ]
+    }
+}
