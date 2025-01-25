@@ -22,6 +22,94 @@
         }
     },
     "Intensity": {
-        "ShakingArea": []
+        "ShakingArea": [
+            {
+                "AreaDesc": "最大震度4級地區",
+                "CountyName": "臺東縣",
+                "AreaIntensity": "4級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度2級地區",
+                "CountyName": "屏東縣",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "屏東縣地區",
+                "CountyName": "屏東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": [
+                    {
+                        "StationName": "南灣",
+                        "StationID": "SNW",
+                        "BackAzimuth": 94.13,
+                        "EpicenterDistance": 79.71,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 21.96,
+                        "StationLongitude": 120.75
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.85,
+                            "NSComponent": 0.95,
+                            "VComponent": 0.43,
+                            "IntScaleValue": 0.97
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "滿州",
+                        "StationID": "SMS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 100.04,
+                        "EpicenterDistance": 71.54,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.021,
+                        "StationLongitude": 120.837,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025027\/1-SMS.gif"
+                    }
+                ]
+            },
+            {
+                "AreaDesc": "臺東縣地區",
+                "CountyName": "臺東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "4級",
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 37.04,
+                            "NSComponent": 41.5,
+                            "VComponent": 13.82,
+                            "IntScaleValue": 44.78
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 1.21,
+                            "NSComponent": 1.41,
+                            "VComponent": 0.48,
+                            "IntScaleValue": 1.58
+                        },
+                        "StationName": "蘭嶼",
+                        "StationID": "LAY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 195.6,
+                        "EpicenterDistance": 14.89,
+                        "SeismicIntensity": "4級",
+                        "StationLatitude": 22.037,
+                        "StationLongitude": 121.558,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025027\/4-LAY.gif"
+                    }
+                ]
+            }
+        ]
     }
 }
