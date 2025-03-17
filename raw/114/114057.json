@@ -784,6 +784,31 @@
                     {
                         "pga": {
                             "unit": "gal",
+                            "EWComponent": 1.12,
+                            "NSComponent": 1.2,
+                            "VComponent": 0.68,
+                            "IntScaleValue": 1.05
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.04,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.01,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "三光",
+                        "StationID": "NSK",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 125.96,
+                        "EpicenterDistance": 47.03,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.674,
+                        "StationLongitude": 121.367,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025057\/1-NSK.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
                             "EWComponent": 1.71,
                             "NSComponent": 1.25,
                             "VComponent": 0.78,
@@ -805,6 +830,31 @@
                         "StationLatitude": 25,
                         "StationLongitude": 121.298,
                         "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025057\/1-NTY.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.22,
+                            "NSComponent": 2.27,
+                            "VComponent": 0.51,
+                            "IntScaleValue": 1.97
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.05,
+                            "NSComponent": 0.05,
+                            "VComponent": 0.01,
+                            "IntScaleValue": 0.05
+                        },
+                        "StationName": "新屋",
+                        "StationID": "NHW",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 132.57,
+                        "EpicenterDistance": 95.44,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 25.007,
+                        "StationLongitude": 121.048,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025057\/1-NHW.gif"
                     }
                 ]
             },
