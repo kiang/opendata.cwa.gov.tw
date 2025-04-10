@@ -1310,6 +1310,31 @@
                     {
                         "pga": {
                             "unit": "gal",
+                            "EWComponent": 1.29,
+                            "NSComponent": 1.37,
+                            "VComponent": 0.59,
+                            "IntScaleValue": 1.54
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.06,
+                            "NSComponent": 0.07,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "大溪",
+                        "StationID": "B011",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 155.89,
+                        "EpicenterDistance": 87.8,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.884,
+                        "StationLongitude": 121.286,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025077\/1-B011.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
                             "EWComponent": 2.08,
                             "NSComponent": 1.63,
                             "VComponent": 0.78,
@@ -1356,6 +1381,56 @@
                         "StationLatitude": 24.967,
                         "StationLongitude": 121.187,
                         "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025077\/1-NCU.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.9,
+                            "NSComponent": 1.06,
+                            "VComponent": 0.23,
+                            "IntScaleValue": 0.98
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.04,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.01,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "新屋",
+                        "StationID": "NHW",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 147.36,
+                        "EpicenterDistance": 111.31,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 25.007,
+                        "StationLongitude": 121.048,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025077\/1-NHW.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.72,
+                            "NSComponent": 2.39,
+                            "VComponent": 0.84,
+                            "IntScaleValue": 2.27
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.07,
+                            "NSComponent": 0.11,
+                            "VComponent": 0.05,
+                            "IntScaleValue": 0.11
+                        },
+                        "StationName": "三光",
+                        "StationID": "NSK",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 153.95,
+                        "EpicenterDistance": 63.2,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.674,
+                        "StationLongitude": 121.367,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025077\/1-NSK.gif"
                     }
                 ]
             },
