@@ -24,112 +24,99 @@
     "Intensity": {
         "ShakingArea": [
             {
+                "AreaDesc": "南投縣地區",
+                "CountyName": "南投縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "高雄市地區",
+                "CountyName": "高雄市",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "臺南市地區",
+                "CountyName": "臺南市",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
                 "AreaDesc": "雲林縣地區",
                 "CountyName": "雲林縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "1級",
-                "EqStation": [
-                    {
-                        "pga": {
-                            "unit": "gal",
-                            "EWComponent": 1.7,
-                            "NSComponent": 1.2,
-                            "VComponent": 0.52,
-                            "IntScaleValue": 1.71
-                        },
-                        "pgv": {
-                            "unit": "kine",
-                            "EWComponent": 0.08,
-                            "NSComponent": 0.06,
-                            "VComponent": 0.02,
-                            "IntScaleValue": 0.09
-                        },
-                        "StationName": "草嶺",
-                        "StationID": "CHN5",
-                        "InfoStatus": "observe",
-                        "BackAzimuth": 116.81,
-                        "EpicenterDistance": 98.89,
-                        "SeismicIntensity": "1級",
-                        "StationLatitude": 23.597,
-                        "StationLongitude": 120.677,
-                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025087\/1-CHN5.gif"
-                    },
-                    {
-                        "pga": {
-                            "unit": "gal",
-                            "EWComponent": 1.13,
-                            "NSComponent": 0.89,
-                            "VComponent": 0.7,
-                            "IntScaleValue": 1.07
-                        },
-                        "pgv": {
-                            "unit": "kine",
-                            "EWComponent": 0.04,
-                            "NSComponent": 0.03,
-                            "VComponent": 0.01,
-                            "IntScaleValue": 0.05
-                        },
-                        "StationName": "古坑",
-                        "StationID": "WGK",
-                        "InfoStatus": "observe",
-                        "BackAzimuth": 118.7,
-                        "EpicenterDistance": 113.01,
-                        "SeismicIntensity": "1級",
-                        "StationLatitude": 23.684,
-                        "StationLongitude": 120.57,
-                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025087\/1-WGK.gif"
-                    },
-                    {
-                        "pga": {
-                            "unit": "gal",
-                            "EWComponent": 0.6,
-                            "NSComponent": 1.18,
-                            "VComponent": 0.49,
-                            "IntScaleValue": 1.24
-                        },
-                        "pgv": {
-                            "unit": "kine",
-                            "EWComponent": 0.03,
-                            "NSComponent": 0.07,
-                            "VComponent": 0.01,
-                            "IntScaleValue": 0.07
-                        },
-                        "StationName": "水林",
-                        "StationID": "WSL",
-                        "InfoStatus": "observe",
-                        "BackAzimuth": 105.15,
-                        "EpicenterDistance": 139.03,
-                        "SeismicIntensity": "1級",
-                        "StationLatitude": 23.523,
-                        "StationLongitude": 120.228,
-                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025087\/1-WSL.gif"
-                    },
-                    {
-                        "pga": {
-                            "unit": "gal",
-                            "EWComponent": 1.09,
-                            "NSComponent": 0.46,
-                            "VComponent": 0.83,
-                            "IntScaleValue": 1.06
-                        },
-                        "pgv": {
-                            "unit": "kine",
-                            "EWComponent": 0.05,
-                            "NSComponent": 0.02,
-                            "VComponent": 0.02,
-                            "IntScaleValue": 0.05
-                        },
-                        "StationName": "麥寮",
-                        "StationID": "WML",
-                        "InfoStatus": "observe",
-                        "BackAzimuth": 116.68,
-                        "EpicenterDistance": 150.56,
-                        "SeismicIntensity": "1級",
-                        "StationLatitude": 23.804,
-                        "StationLongitude": 120.223,
-                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025087\/1-WML.gif"
-                    }
-                ]
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度1級地區",
+                "CountyName": "高雄市、雲林縣、屏東縣、嘉義市、宜蘭縣、南投縣、彰化縣",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "花蓮縣地區",
+                "CountyName": "花蓮縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "臺東縣地區",
+                "CountyName": "臺東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "3級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "彰化縣地區",
+                "CountyName": "彰化縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度3級地區",
+                "CountyName": "臺東縣",
+                "AreaIntensity": "3級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "嘉義縣地區",
+                "CountyName": "嘉義縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "屏東縣地區",
+                "CountyName": "屏東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "宜蘭縣地區",
+                "CountyName": "宜蘭縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度2級地區",
+                "CountyName": "花蓮縣、臺南市、嘉義縣",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "嘉義市地區",
+                "CountyName": "嘉義市",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": []
             }
         ]
     }
