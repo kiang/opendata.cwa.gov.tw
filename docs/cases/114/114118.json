@@ -445,7 +445,83 @@
                 "CountyName": "宜蘭縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.92,
+                            "NSComponent": 3.53,
+                            "VComponent": 1.56,
+                            "IntScaleValue": 2.97
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.07,
+                            "NSComponent": 0.07,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.08
+                        },
+                        "StationName": "南山",
+                        "StationID": "NNS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 170.94,
+                        "EpicenterDistance": 57.01,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 24.437,
+                        "StationLongitude": 121.381,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025118\/2-NNS.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 3.92,
+                            "NSComponent": 3.37,
+                            "VComponent": 1.25,
+                            "IntScaleValue": 1.37
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.04,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.05
+                        },
+                        "StationName": "南澳",
+                        "StationID": "ENA",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 207.28,
+                        "EpicenterDistance": 61.91,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.426,
+                        "StationLongitude": 121.749,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025118\/1-ENA.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.15,
+                            "NSComponent": 1.32,
+                            "VComponent": 0.25,
+                            "IntScaleValue": 1.13
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.01,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.01,
+                            "IntScaleValue": 0.03
+                        },
+                        "StationName": "牛鬥",
+                        "StationID": "ENT",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 187.66,
+                        "EpicenterDistance": 79.25,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.638,
+                        "StationLongitude": 121.574,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025118\/1-ENT.gif"
+                    }
+                ]
             }
         ]
     }
