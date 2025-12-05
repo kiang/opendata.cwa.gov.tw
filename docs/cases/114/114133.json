@@ -1941,14 +1941,116 @@
                 "CountyName": "宜蘭縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "1級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.79,
+                            "NSComponent": 2.52,
+                            "VComponent": 0.55,
+                            "IntScaleValue": 2.11
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.07,
+                            "NSComponent": 0.07,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.08
+                        },
+                        "StationName": "南山",
+                        "StationID": "NNS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 224.61,
+                        "EpicenterDistance": 87.71,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.437,
+                        "StationLongitude": 121.381,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025133\/1-NNS.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.31,
+                            "NSComponent": 0.99,
+                            "VComponent": 0.79,
+                            "IntScaleValue": 1.12
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "南澳",
+                        "StationID": "ENA",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 238.28,
+                        "EpicenterDistance": 116.34,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.426,
+                        "StationLongitude": 121.749,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025133\/1-ENA.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.2,
+                            "NSComponent": 0.96,
+                            "VComponent": 0.26,
+                            "IntScaleValue": 0.94
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.01,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.03
+                        },
+                        "StationName": "牛鬥",
+                        "StationID": "ENT",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 223.76,
+                        "EpicenterDistance": 117.24,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.638,
+                        "StationLongitude": 121.574,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025133\/1-ENT.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "嘉義市地區",
                 "CountyName": "嘉義市",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.66,
+                            "NSComponent": 3.26,
+                            "VComponent": 1.47,
+                            "IntScaleValue": 3.39
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.08,
+                            "NSComponent": 0.13,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.14
+                        },
+                        "StationName": "嘉義市",
+                        "StationID": "CHY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 39.76,
+                        "EpicenterDistance": 54.61,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 23.496,
+                        "StationLongitude": 120.433,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025133\/2-CHY.gif"
+                    }
+                ]
             }
         ]
     }
