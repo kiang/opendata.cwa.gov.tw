@@ -48,14 +48,66 @@
                 "CountyName": "雲林縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.49,
+                            "NSComponent": 1.58,
+                            "VComponent": 1.18,
+                            "IntScaleValue": 2.65
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.17,
+                            "NSComponent": 0.06,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.17
+                        },
+                        "StationName": "麥寮",
+                        "StationID": "WML",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 147.32,
+                        "EpicenterDistance": 82.81,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 23.804,
+                        "StationLongitude": 120.223,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025147\/2-WML.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "彰化縣地區",
                 "CountyName": "彰化縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "1級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.74,
+                            "NSComponent": 1.72,
+                            "VComponent": 1.09,
+                            "IntScaleValue": 1.63
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.04,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "彰化市",
+                        "StationID": "WCHH",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 174.03,
+                        "EpicenterDistance": 100.76,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 24.079,
+                        "StationLongitude": 120.558,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025147\/1-WCHH.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "嘉義縣地區",
@@ -95,7 +147,33 @@
                 "CountyName": "嘉義市",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 3.33,
+                            "NSComponent": 4.82,
+                            "VComponent": 1.32,
+                            "IntScaleValue": 5.06
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.19,
+                            "NSComponent": 0.3,
+                            "VComponent": 0.08,
+                            "IntScaleValue": 0.32
+                        },
+                        "StationName": "嘉義市",
+                        "StationID": "CHY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 146.68,
+                        "EpicenterDistance": 42.5,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 23.496,
+                        "StationLongitude": 120.433,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025147\/2-CHY.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "臺東縣地區",
