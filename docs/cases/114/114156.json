@@ -3298,14 +3298,91 @@
                 "CountyName": "基隆市",
                 "InfoStatus": "observe",
                 "AreaIntensity": "4級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 18.68,
+                            "NSComponent": 23.12,
+                            "VComponent": 10.09,
+                            "IntScaleValue": 29.17
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 1.8,
+                            "NSComponent": 3.57,
+                            "VComponent": 0.83,
+                            "IntScaleValue": 3.73
+                        },
+                        "StationName": "基隆市",
+                        "StationID": "NOU",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 148.78,
+                        "EpicenterDistance": 59.61,
+                        "SeismicIntensity": "4級",
+                        "StationLatitude": 25.149,
+                        "StationLongitude": 121.773,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025156\/4-NOU.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 3.46,
+                            "NSComponent": 3.07,
+                            "VComponent": 4.72,
+                            "IntScaleValue": 5.43
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 1.03,
+                            "NSComponent": 0.62,
+                            "VComponent": 0.37,
+                            "IntScaleValue": 1.15
+                        },
+                        "StationName": "彭佳嶼",
+                        "StationID": "PCY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 180.05,
+                        "EpicenterDistance": 104.09,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 25.628,
+                        "StationLongitude": 122.08,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025156\/2-PCY.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "連江縣地區",
                 "CountyName": "連江縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 4.27,
+                            "NSComponent": 3,
+                            "VComponent": 3.29,
+                            "IntScaleValue": 4.87
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.22,
+                            "NSComponent": 0.14,
+                            "VComponent": 0.26,
+                            "IntScaleValue": 0.3
+                        },
+                        "StationName": "馬祖",
+                        "StationID": "MSU",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 127.12,
+                        "EpicenterDistance": 272.02,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 26.169,
+                        "StationLongitude": 119.923,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2025\/2025156\/2-MSU.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "屏東縣地區",
