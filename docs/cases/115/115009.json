@@ -2,7 +2,7 @@
     "EarthquakeNo": 115009,
     "ReportType": "地震報告",
     "ReportColor": "綠色",
-    "ReportContent": "01\/23-13:41宜蘭縣近海發生規模4.2有感地震，最大震度花蓮縣和平、宜蘭縣南澳、臺東縣臺東市3級。",
+    "ReportContent": "01\/23-13:41宜蘭縣近海發生規模4.2有感地震，最大震度花蓮縣和平、宜蘭縣南澳3級。",
     "ReportImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/OLDEQ\/202601\/2026012313410942009_H.png",
     "ReportRemark": "本報告係中央氣象署地震觀測網即時地震資料地震速報之結果。",
     "Web": "https:\/\/scweb.cwa.gov.tw\/zh-tw\/earthquake\/details\/2026009",
@@ -230,7 +230,7 @@
             },
             {
                 "AreaDesc": "最大震度3級地區",
-                "CountyName": "花蓮縣、宜蘭縣、臺東縣",
+                "CountyName": "花蓮縣、宜蘭縣",
                 "AreaIntensity": "3級",
                 "EqStation": []
             },
@@ -439,23 +439,6 @@
                         "StationLatitude": 24.854,
                         "StationLongitude": 121.83,
                         "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026009\/1-NTC.gif"
-                    }
-                ]
-            },
-            {
-                "AreaDesc": "臺東縣地區",
-                "CountyName": "臺東縣",
-                "InfoStatus": "observe",
-                "AreaIntensity": "3級",
-                "EqStation": [
-                    {
-                        "StationName": "臺東市",
-                        "StationID": "TTN",
-                        "BackAzimuth": 20.09,
-                        "EpicenterDistance": 184.79,
-                        "SeismicIntensity": "3級",
-                        "StationLatitude": 22.753,
-                        "StationLongitude": 121.155
                     }
                 ]
             }
