@@ -22,6 +22,324 @@
         }
     },
     "Intensity": {
-        "ShakingArea": []
+        "ShakingArea": [
+            {
+                "AreaDesc": "高雄市地區",
+                "CountyName": "高雄市",
+                "InfoStatus": "observe",
+                "AreaIntensity": "1級",
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.35,
+                            "NSComponent": 0.28,
+                            "VComponent": 1.19,
+                            "IntScaleValue": 0.87
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.01,
+                            "NSComponent": 0.01,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.02
+                        },
+                        "StationName": "六龜",
+                        "StationID": "SLG",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 138.93,
+                        "EpicenterDistance": 56.91,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.993,
+                        "StationLongitude": 120.646,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-SLG.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.73,
+                            "NSComponent": 0.72,
+                            "VComponent": 0.94,
+                            "IntScaleValue": 0.96
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.03,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "旗山",
+                        "StationID": "SCS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 120.25,
+                        "EpicenterDistance": 61.43,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.886,
+                        "StationLongitude": 120.494,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-SCS.gif"
+                    }
+                ]
+            },
+            {
+                "AreaDesc": "最大震度1級地區",
+                "CountyName": "高雄市",
+                "AreaIntensity": "1級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度4級地區",
+                "CountyName": "臺東縣",
+                "AreaIntensity": "4級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "最大震度2級地區",
+                "CountyName": "屏東縣",
+                "AreaIntensity": "2級",
+                "EqStation": []
+            },
+            {
+                "AreaDesc": "屏東縣地區",
+                "CountyName": "屏東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "2級",
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 3.12,
+                            "NSComponent": 4.65,
+                            "VComponent": 1.89,
+                            "IntScaleValue": 3.97
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.08,
+                            "NSComponent": 0.12,
+                            "VComponent": 0.04,
+                            "IntScaleValue": 0.12
+                        },
+                        "StationName": "三地門",
+                        "StationID": "SSD",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 111.88,
+                        "EpicenterDistance": 41.02,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 22.744,
+                        "StationLongitude": 120.64,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/2-SSD.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 2.51,
+                            "NSComponent": 1.4,
+                            "VComponent": 1.16,
+                            "IntScaleValue": 2.56
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.08,
+                            "NSComponent": 0.07,
+                            "VComponent": 0.04,
+                            "IntScaleValue": 0.08
+                        },
+                        "StationName": "新埤",
+                        "StationID": "SSP",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 73.31,
+                        "EpicenterDistance": 47.5,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 22.484,
+                        "StationLongitude": 120.568,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/2-SSP.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.4,
+                            "NSComponent": 1.66,
+                            "VComponent": 0.47,
+                            "IntScaleValue": 2.02
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.05,
+                            "NSComponent": 0.06,
+                            "VComponent": 0.02,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "九如",
+                        "StationID": "SGL",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 103.85,
+                        "EpicenterDistance": 54.16,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.723,
+                        "StationLongitude": 120.499,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-SGL.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.35,
+                            "NSComponent": 0.94,
+                            "VComponent": 1.39,
+                            "IntScaleValue": 1.4
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.07,
+                            "NSComponent": 0.06,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "屏東市",
+                        "StationID": "SPT",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 98.38,
+                        "EpicenterDistance": 53.44,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.677,
+                        "StationLongitude": 120.496,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-SPT.gif"
+                    }
+                ]
+            },
+            {
+                "AreaDesc": "臺東縣地區",
+                "CountyName": "臺東縣",
+                "InfoStatus": "observe",
+                "AreaIntensity": "4級",
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 43.49,
+                            "NSComponent": 92.43,
+                            "VComponent": 29.09,
+                            "IntScaleValue": 82.71
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.82,
+                            "NSComponent": 2.45,
+                            "VComponent": 0.62,
+                            "IntScaleValue": 2.46
+                        },
+                        "StationName": "太麻里",
+                        "StationID": "ECL",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 76.57,
+                        "EpicenterDistance": 5.16,
+                        "SeismicIntensity": "4級",
+                        "StationLatitude": 22.596,
+                        "StationLongitude": 120.962,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/4-ECL.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.72,
+                            "NSComponent": 2.85,
+                            "VComponent": 2.99,
+                            "IntScaleValue": 2.65
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.08,
+                            "NSComponent": 0.08,
+                            "VComponent": 0.05,
+                            "IntScaleValue": 0.1
+                        },
+                        "StationName": "臺東市",
+                        "StationID": "TTN",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 222.55,
+                        "EpicenterDistance": 21.98,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 22.753,
+                        "StationLongitude": 121.155,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/2-TTN.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.97,
+                            "NSComponent": 1.95,
+                            "VComponent": 1.96,
+                            "IntScaleValue": 1.66
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.06,
+                            "NSComponent": 0.06,
+                            "VComponent": 0.04,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "卑南",
+                        "StationID": "TWG",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 196.97,
+                        "EpicenterDistance": 24.46,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.817,
+                        "StationLongitude": 121.08,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-TWG.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.73,
+                            "NSComponent": 1.49,
+                            "VComponent": 1.97,
+                            "IntScaleValue": 1.63
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.04,
+                            "VComponent": 0.04,
+                            "IntScaleValue": 0.04
+                        },
+                        "StationName": "大武",
+                        "StationID": "TAW",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 21.59,
+                        "EpicenterDistance": 29.89,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.356,
+                        "StationLongitude": 120.904,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-TAW.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 1.28,
+                            "NSComponent": 1.08,
+                            "VComponent": 1.14,
+                            "IntScaleValue": 1.21
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.05,
+                            "NSComponent": 0.05,
+                            "VComponent": 0.03,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "鹿野",
+                        "StationID": "LONT",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 200.33,
+                        "EpicenterDistance": 35.47,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.906,
+                        "StationLongitude": 121.131,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026002\/1-LONT.gif"
+                    }
+                ]
+            }
+        ]
     }
 }
