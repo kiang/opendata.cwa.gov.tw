@@ -3147,14 +3147,91 @@
                 "CountyName": "屏東縣",
                 "InfoStatus": "observe",
                 "AreaIntensity": "1級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.57,
+                            "NSComponent": 0.82,
+                            "VComponent": 0.25,
+                            "IntScaleValue": 0.83
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.1,
+                            "NSComponent": 0.14,
+                            "VComponent": 0.05,
+                            "IntScaleValue": 0.14
+                        },
+                        "StationName": "九如",
+                        "StationID": "SGL",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 33.41,
+                        "EpicenterDistance": 292.73,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.723,
+                        "StationLongitude": 120.499,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026037\/1-SGL.gif"
+                    },
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 0.8,
+                            "NSComponent": 0.69,
+                            "VComponent": 0.22,
+                            "IntScaleValue": 0.9
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.03,
+                            "NSComponent": 0.05,
+                            "VComponent": 0.06,
+                            "IntScaleValue": 0.07
+                        },
+                        "StationName": "滿州",
+                        "StationID": "SMS",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 21.51,
+                        "EpicenterDistance": 346.46,
+                        "SeismicIntensity": "1級",
+                        "StationLatitude": 22.021,
+                        "StationLongitude": 120.837,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026037\/1-SMS.gif"
+                    }
+                ]
             },
             {
                 "AreaDesc": "嘉義市地區",
                 "CountyName": "嘉義市",
                 "InfoStatus": "observe",
                 "AreaIntensity": "2級",
-                "EqStation": []
+                "EqStation": [
+                    {
+                        "pga": {
+                            "unit": "gal",
+                            "EWComponent": 4.61,
+                            "NSComponent": 3.52,
+                            "VComponent": 1.35,
+                            "IntScaleValue": 4.91
+                        },
+                        "pgv": {
+                            "unit": "kine",
+                            "EWComponent": 0.23,
+                            "NSComponent": 0.19,
+                            "VComponent": 0.06,
+                            "IntScaleValue": 0.23
+                        },
+                        "StationName": "嘉義市",
+                        "StationID": "CHY",
+                        "InfoStatus": "observe",
+                        "BackAzimuth": 46.54,
+                        "EpicenterDistance": 230.62,
+                        "SeismicIntensity": "2級",
+                        "StationLatitude": 23.496,
+                        "StationLongitude": 120.433,
+                        "WaveImageURI": "https:\/\/scweb.cwa.gov.tw\/webdata\/drawTrace\/outcome\/2026\/2026037\/2-CHY.gif"
+                    }
+                ]
             }
         ]
     }
